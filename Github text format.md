@@ -13,4 +13,4 @@
 In the words of Abraham Lincoln:
 > Pardon my French
 
-'Hi Adam', my computer said to me.
+`Hi Adam`, my computer said to me.
